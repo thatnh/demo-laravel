@@ -32,6 +32,8 @@
 
         <button type="submit">Đăng ký</button>
         <button type="submit">Đăng ký</button>
+        <button type="submit">Đăng ký</button>
+
     </form>
 </body>
 </html>
