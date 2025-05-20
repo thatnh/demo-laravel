@@ -31,6 +31,7 @@
         <input type="password" name="password_confirmation"><br><br>
 
         <button type="submit">Đăng ký</button>
+        <button type="submit">Đăng ký</button>
     </form>
 </body>
 </html>
